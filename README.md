@@ -5,6 +5,7 @@
 - mux (Router)
 - logrus (Logger)
 - testify (Tests)
+- pq (SQL)
 
 ## Improvements:
 - Change `logrus` to more efficient logger lib
