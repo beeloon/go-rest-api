@@ -6,6 +6,8 @@
 - logrus (Logger)
 - testify (Tests)
 - pq (SQL)
+- crypto (Password Encryption)
+- ozzo-validation (Validator)
 
 ## Improvements:
 - Change `logrus` to more efficient logger lib
